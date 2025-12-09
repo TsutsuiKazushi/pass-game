@@ -1,8 +1,10 @@
-# Adverse cascades in collective dynamics under individual bounded rationality
+# Individual bounded rationality destabilizes cooperative dynamics in human–AI groups
 
-> Adverse cascades in collective dynamics under individual bounded rationality <br>
+> Individual bounded rationality destabilizes cooperative dynamics in human–AI groups <br>
 > accepted by *xxxx* as a research article <br>
 > Kazushi Tsutsui, Nobuaki Mizuguchi, Yuta Goto, Ryoji Onagawa, Fumihiro Kano, Kazutoshi Kudo, Tadao Isaka, Keisuke Fujii
+>
+> [[biorxiv]](https://www.biorxiv.org/content/10.64898/2025.11.30.691459v1)
 
 ## Experimental setup and models
 <img width="800" alt="Image" src="https://github.com/user-attachments/assets/1463fad3-ea2b-43aa-acb1-6619bb821d93" /> <br>
